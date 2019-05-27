@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.deps.json
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.runtimeconfig.json
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.dll
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.pdb
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.dll
+C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.pdb

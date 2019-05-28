@@ -9,3 +9,9 @@ C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1s
 C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\bin\Debug\netcoreapp2.2\CrowDo1st.pdb
 C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.dll
 C:\Users\Admin\source\repos\CrowDo1st\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.pdb
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.dll
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDo1st\obj\Debug\netcoreapp2.2\CrowDo1st.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\CrowDo1st\\CrowDo1st\\CrowDo1st.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\Evaapostol\\CrowDo\\CrowDo1st\\CrowDo1st.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\CrowDo1st\\CrowDo1st\\CrowDo1st.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\Evaapostol\\CrowDo\\CrowDo1st\\CrowDo1st.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CrowDo1st\\CrowDo1st\\CrowDo1st.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Evaapostol\\CrowDo\\CrowDo1st\\CrowDo1st.csproj",
         "projectName": "CrowDo1st",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CrowDo1st\\CrowDo1st\\CrowDo1st.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CrowDo1st\\CrowDo1st\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\Evaapostol\\CrowDo\\CrowDo1st\\CrowDo1st.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Evaapostol\\CrowDo\\CrowDo1st\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

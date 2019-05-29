@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Evaapostol\CrowDo\CrowDoAPI\obj\Debug\netcoreapp2.2\CrowDoAPI.AssemblyInfo.cs

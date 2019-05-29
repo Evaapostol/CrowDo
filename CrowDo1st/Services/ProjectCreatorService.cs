@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CrowDo1st
 {
-    class ProjectCreatorService : IProjectCreatorService
+    public class ProjectCreatorService : IProjectCreatorService
     {
 
 
@@ -183,7 +183,15 @@ namespace CrowDo1st
             return true;
         }
 
-       
+        public ProjectProfilePage ProjectCreation(string email, string title, string description, string dateOfCreation, string category, string datetime)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ProjectProfilePage ProjectEdit(string currenttitle, string title, string description, string datetime)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 

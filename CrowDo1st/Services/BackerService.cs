@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace CrowDo1st
 {
-    class BackerService : IBackerService
+    public class BackerService : IBackerService
     {
         public bool FundProject(string email, string projectName, decimal amount, string titleOfPackage)
         {
@@ -108,6 +108,11 @@ namespace CrowDo1st
                 results.Add(r.Title);
             }
             return results;
+        }
+
+        public List<string> ViewByCategory(ProjectCategoryId category)
+        {
+            throw new NotImplementedException();
         }
     }
 }
